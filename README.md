@@ -1,1 +1,1 @@
-# notes-kafka
+# Kafka Notes
